@@ -11,7 +11,7 @@
 11) Explain the output of ip routes what each entry means and who made them.
 12) In what layer of OSI model does ICMP protocol work, what is its default port, if it exists
 13) In what layer of OSI model does ssh work, and what is its default port.
-14) What has greater priority nice 0 or 19? Explain niceness concept and how it is used?
+14) What has greater priority nice 0 or 19? Explain niceness concept and how is it used?
 15) How to configure nginx to ballance with requests from the same ip to always go to the same servers?
 16) What are cgroups and namespaces how are they used for containerisation. How can they also be used?
 17) What signals in a posix compliant system do you now, explain some of them. What signals can'not be handled and why?
@@ -19,5 +19,5 @@
 19) Where is the name of the file stored?
 20) How to stop a process and save its files marked deleted?(https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted)
 21) Where are access bits of a file stored?
-22) Running appache in thread mode vs proccess mod.
+22) Running appache in thread mode vs proccess mode.
 23) Thread vs process vs corutine/gorutine/korutine
