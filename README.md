@@ -1,7 +1,7 @@
 1) What to do after sudo chmod -x chmod
 2) How does awk work and what can you do with it
 3) How to defend against DDOS attacks 
-4) What happens exactly when you type ls -la in bash?
+4) What happens exactly when you type ls -la and press enter in bash?
 5) Explain every field in top output
 6) Can virtual memory be greater than physical and why virtual memory is necessary?
 7) How does user space communicate with kernel space and vice versa.
