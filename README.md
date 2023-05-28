@@ -5,9 +5,9 @@
 5) Explain every field in top output
 6) Can virtual memory be larger than physical and why virtual memory is necessary?
 7) How does user space communicate with kernel space and vice versa.
-8) What are software interrupts and hardware interrupts what are their functions and 
+8) What are software interrupts and hardware interrupts what are their functions and differences
 9) What size should you set when making an lvm snapshot
-10) What are different types of Raid arrays are you familiar with 
+10) What different types of Raid arrays are you familiar with 
 11) Explain the output of ip routes what each entry means and who made them.
 12) In what layer of OSI model does ICMP protocol work, what is its default port, if it exists
 13) In what layer of OSI model does ssh work, and what is its default port.
